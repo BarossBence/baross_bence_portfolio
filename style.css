@@ -1,0 +1,71 @@
+body
+{
+	background-color:  #0FBEE8 ;
+}
+.divKezdooldal
+{
+	color: darkred;
+	line-height: 1;
+}
+.h1
+{
+	text-align: center;
+	color: darkred;
+	font-size: 80px;
+}
+.h2
+{
+	text-align: center;	
+	word-spacing: 80px;
+	font-size: 60;
+}
+.Kijelolt
+{
+	background-color:    darkred ;
+	text-decoration: none;
+	color: #0fe8c4;
+	border-style: solid;
+	border-radius: 8px;
+	border-color:  darkred ;
+	border: -10px;
+}
+.Alap
+{
+	background-color:   #0fe8c4 ;
+	text-decoration: none;
+	color: darkred;
+	border-style: solid;
+	border-radius: 8px;
+	border-color: #0fe8c4;
+	border: -10px;
+}
+.nagytav
+{
+	 font-size: 60px;
+	 margin-left: 20%;
+	 margin-top: 5%;
+}
+.portfolio
+{
+	margin-left: 70%;
+	margin-top: 8%;
+}
+.Szoveg
+{
+	margin-left: 20%;
+	margin-right: 20%;
+	font-size: 20px;
+	margin-top: 5%;
+	border-color: #0fe8c4;
+	background-color:   #0fe8c4 ;
+	border-radius: 8px;
+}
+img
+{
+	align: center;
+}
+.divHobbijaim
+{
+	text-align: center;
+	color: darkred;
+}
